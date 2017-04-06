@@ -64,4 +64,8 @@ Ans.    Routers can connect two or more network segments. These are intelligent 
     Protocol is a standard used to define a method of exchanging data over a computer network.
     For example : TCP, IP, UDP, POP, SMTP, HTTP, and FTP 
 
-15.
+15.What is the difference between internet and ethernet?
+    Ethernet is a local area network used to connect computers near one another.The Ethernet is a local area network (LAN) which connects computers in a local location. 
+    There are thousands and hundreds of thousands of Ethernet networks.
+    The internet, on the other hand, is a massive wide area network (WAN) that computers far away can connect to in order to access information.
+    There is only one internet.However, it can be said that the internet is a network of networks.
